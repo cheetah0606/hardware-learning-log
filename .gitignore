@@ -1,0 +1,10 @@
+*.DS_Store
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.zip
+*.exe
+*.out
+*.bin
